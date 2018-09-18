@@ -1,0 +1,11 @@
+public class test
+{
+  Public void display()
+  {
+    System.out.println("Hello World");
+   }
+}
+
+
+
+
